@@ -9,10 +9,9 @@ def batch_badge_creator(names)
 end
     
 
-
-# def assign_rooms(name)
-#   "Hello, #{name}! You'll be assigned to room #{number}!"]
-# end 
+def assign_rooms(name)
+  "Hello, #{name}! You'll be assigned to room #{number}!"]
+end 
 
 # badge_maker("")
 
