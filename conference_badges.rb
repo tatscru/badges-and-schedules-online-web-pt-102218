@@ -18,7 +18,6 @@ end
 
 # each_with_index 
 
-
 # def printer(attendees)
 # end 
   
