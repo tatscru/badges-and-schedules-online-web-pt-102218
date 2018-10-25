@@ -10,8 +10,9 @@ def batch_badge_creator(names)
   #   badges << "Hello, my name is #{name}."
   # end 
   # badges
+  names.collect {|names| "Hello, my name is #{name}."}
 end
-    # {|names| puts "Hello, my name is #{name}."}
+    
 
 
 # def assign_rooms(name)
