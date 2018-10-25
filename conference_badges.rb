@@ -10,7 +10,7 @@ end
     
 
 def assign_rooms(names)
-  names.each_with_index {|name|"Hello, #{name}! You'll be assigned to room  
+  names.each_with_index {|name, index| "Hello, #{name}! You'll be assigned to room  
 end
   
 
