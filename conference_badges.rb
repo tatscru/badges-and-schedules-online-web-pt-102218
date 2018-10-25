@@ -10,7 +10,7 @@ def batch_badge_creator(names)
   #   badges << "Hello, my name is #{name}."
   # end 
   # badges
-  names.collect {|names| "Hello, my name is #{name}."}
+  names.collect {|name| badge_maker name}
 end
     
 
