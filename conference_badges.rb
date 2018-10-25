@@ -14,10 +14,9 @@ def assign_rooms(names)
 end
   
 
-# badge_maker("")
-
-# each_with_index 
-
-# def printer(attendees)
-# end 
+def printer(attendees)
+  batch_badge_creator 
+  assign_rooms
+  print
+end 
    
